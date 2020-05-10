@@ -7,10 +7,10 @@ This repository contains data, code and results for the ECE 523: Engineering App
 ## 1. Train_Test Dataset
 The folder contains Devanagari Hindi digits used in the project. Theu were downloaded from https://www.kaggle.com/ashokpant/devanagari-character-dataset/version/1
 
-## GAN.ipynb
+## 2. GAN.ipynb
 This folder containd the code for the project
 
-## Results
+## 3. Results
 This folder contains results ontained from changing various hyper-parameters. 
 1) Activation functions: Discriminator: sigmoid, Generator: sigmoid, Optimizer in Discriminator: Dropout: 0.4, Convulutional Kernel: 4x4
 2) Activation functions: Discriminator: sigmoid, Generator: sigmoid, Optimizer in Discriminator: Dropout: 0.4, Convulutional Kernel: 2x2
@@ -21,5 +21,5 @@ This folder contains results ontained from changing various hyper-parameters.
 7) Activation functions: Discriminator: ReLU Generator: sigmoid, Optimizer in Discriminator: Dropout: 0.2
 8) Activation functions: Discriminator: tanh Generator: tanh, Optimizer in Discriminator: Dropout: 0.2
 
-## ECE 523 Final project.pdf
+## 4. ECE 523 Final project.pdf
 This folder contains the project report along with loss graph functions.
